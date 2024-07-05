@@ -38,7 +38,7 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/gikenye/uniconnect.git
 ## Usage
 
-###Run
+## Run
 1. ```npm i```
 2. ```npx expo start```
 
