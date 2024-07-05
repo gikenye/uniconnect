@@ -1,7 +1,12 @@
 # uniconnet
 ![UniConnect Logo](path_to_logo_image)
-
-UniConnect is a dynamic platform designed to facilitate seamless communication and collaboration among university students, faculty, and staff. This project aims to bridge the gap between various university stakeholders, providing a unified interface for managing academic and extracurricular activities.
+- The platform will be designed to cater specifically to the needs and preferences of student entrepreneurs within the university community.
+- The platform will include categories such as buy and sell, services, events, and accommodation.
+- The platform will be accessible through a mobile application.
+- The platform will allow students to create profiles, post advertisements, search for advertisements, and communicate with other users.
+- The platform will be developed using Expo JS for the frontend, Golang for the backend, and Postgres database for data storage.
+- The platform will be designed with a user-friendly interface and intuitive navigation.
+- The platform will have a secure login system and protect user data privacy.
 
 ## Table of Contents
 
